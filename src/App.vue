@@ -1,5 +1,5 @@
 <template>
-  <div id="app">hello</div>
+  <el-button type="warning">警告按钮</el-button>
 </template>
 
 <script>
