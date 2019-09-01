@@ -1,5 +1,6 @@
 <template>
-  <el-button type="warning">警告按钮</el-button>
+<!-- 一级路由的出口 -->
+  <router-view></router-view>
 </template>
 
 <script>
